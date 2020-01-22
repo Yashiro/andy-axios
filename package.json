@@ -1,8 +1,14 @@
 {
   "name": "andy-axios",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Create Axios Network Framework By Self",
-  "keywords": ["TypeScript", "Axios", "ES6", "Network", "Framework"],
+  "keywords": [
+    "TypeScript",
+    "Axios",
+    "ES6",
+    "Network",
+    "Framework"
+  ],
   "main": "dist/andy-axios.umd.js",
   "module": "dist/andy-axios.es5.js",
   "typings": "dist/types/andy-axios.d.ts",
