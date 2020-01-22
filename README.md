@@ -11,4 +11,4 @@ Tag
     - 5、支持请求的取消
     - 6、JSON 数据的自动转换
     - 7、XSRF 防御
-    - 8、instance 扩展功能
+    - 8、axios.create() instance 扩展功能
